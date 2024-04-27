@@ -15,6 +15,9 @@
     "@radix-ui/react-slot": "^1.0.2",
     "@radix-ui/react-toggle": "^1.0.3",
     "@radix-ui/react-toggle-group": "^1.0.4",
+    "@uiw/codemirror-extensions-langs": "^4.21.25",
+    "@uiw/codemirror-theme-vscode": "^4.21.25",
+    "@uiw/react-codemirror": "^4.21.25",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "lucide-react": "^0.376.0",
@@ -24,7 +27,8 @@
     "react-resizable-panels": "^2.0.18",
     "sonner": "^1.4.41",
     "tailwind-merge": "^2.3.0",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "uiw": "^4.22.3"
   },
   "devDependencies": {
     "@types/node": "^20",
